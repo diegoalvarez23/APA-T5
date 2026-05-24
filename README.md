@@ -10,6 +10,14 @@
 
 ##### Estereo.py
 ```
+"""
+Nombre y apellidos: Diego Alvarez Tome
+
+Funciones para manejar ficheros WAVE PCM usando únicamente struct.
+Incluye conversión estéreo-mono, mono-estéreo, codificación estéreo
+en muestras de 32 bits y decodificación de nuevo a estéreo.
+"""
+
 
 import struct
 
